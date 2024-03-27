@@ -1,0 +1,60 @@
+[11220:16744:0326/141401.045:WARNING:chrome_main_delegate.cc(740)] This is Chrome version 123.0.6312.59 (not a warning)
+[11220:16744:0326/141401.168:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[11220:16744:0326/141401.168:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[11220:26228:0326/141406.126:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/141411.139:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:16744:0326/141412.629:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:5139
+[11220:16744:0326/141412.786:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:265059
+[11220:16744:0326/141413.430:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:883094
+[11220:16744:0326/141413.916:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:2222106
+[11220:16744:0326/141414.088:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:45164
+[11220:16744:0326/141414.567:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:4680
+[11220:16744:0326/141414.998:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:3844
+[11220:16744:0326/141415.268:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:2747168
+[11220:26228:0326/141416.143:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:16744:0326/141417.699:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:1463571
+[11220:26228:0326/141501.207:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:16744:0326/141707.539:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/v3/signin/identifier?flow=promo&ssp=1&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Faccounts.google.com%252FManageAccount%253Fnc%253D1%26est%3DALmpJI1RRdGHQi-V5ktAV8q9mAelxyjH7o3nfaqtClBLhb6VKgwO-37CT35v-FlKxPeiByYQqgXXGx-gDdczBp0&flowName=GlifDesktopChromeSync&ddm=0&dsh=S487427889%3A1711442832254028 (0)
+[11220:16744:0326/141707.545:INFO:CONSOLE(293)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.VrlT2IzrFo0.es5.O/am=P8AiOhwLgIAwaznn74zTAwAAAAAAAAAAawA7/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlHTfBsHMezSdGQl86aOFoOw9GmFfA/m=_b,_tp (293)
+[11220:16744:0326/141707.545:INFO:CONSOLE(293)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.VrlT2IzrFo0.es5.O/am=P8AiOhwLgIAwaznn74zTAwAAAAAAAAAAawA7/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlHTfBsHMezSdGQl86aOFoOw9GmFfA/m=_b,_tp (293)
+[11220:16744:0326/141708.006:ERROR:web_contents_delegate.cc(260)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[11220:16744:0326/141708.006:ERROR:web_contents_delegate.cc(260)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[11220:16744:0326/141708.533:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[11220:16744:0326/141708.533:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[11220:16744:0326/141759.324:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fcontinue%3Dhttps%253A%252F%252Faccounts.google.com%252Fsignin%252Fchrome%252Fsync%252Ffinish%253Fcontinue%253Dhttps%25253A%25252F%25252Faccounts.google.com%25252FManageAccount%25253Fnc%25253D1%2526est%253DALmpJI1RRdGHQi-V5ktAV8q9mAelxyjH7o3nfaqtClBLhb6VKgwO-37CT35v-FlKxPeiByYQqgXXGx-gDdczBp0%26est%3DALmpJI1seau-D-pTSdC2LCvZc9N-r2HIgdPSuuQ0pUa4uHlLydRGwvMHKgcc57FUXto_SvMcX5a-m6I8CquVvQ&ddm=0&flow=promo&flowName=GlifDesktopChromeSync&dsh=S890150856%3A1711442884131767 (0)
+[11220:16744:0326/141759.325:INFO:CONSOLE(293)] "%c%s color: red; background: yellow; font-size: 24px; WARNING!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.VrlT2IzrFo0.es5.O/am=P8AiuhwLgIAwaznn74zTAwAAAAAAAAAAawA7/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFz-ZODgLuDlU5fUFQNWfj_Snu02Q/m=_b,_tp (293)
+[11220:16744:0326/141759.325:INFO:CONSOLE(293)] "%c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.VrlT2IzrFo0.es5.O/am=P8AiuhwLgIAwaznn74zTAwAAAAAAAAAAawA7/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlFz-ZODgLuDlU5fUFQNWfj_Snu02Q/m=_b,_tp (293)
+[11220:16744:0326/141759.765:ERROR:web_contents_delegate.cc(260)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[11220:16744:0326/141759.765:ERROR:web_contents_delegate.cc(260)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[11220:16744:0326/141759.766:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[11220:16744:0326/141759.766:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[11220:16744:0326/142017.175:WARNING:profile_picker.cc(126)] Checking window reusability from entry point 15 to 2
+[11220:20788:0326/144359.370:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144414.394:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:20788:0326/144439.453:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:23800:0326/144659.660:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144704.666:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:23800:0326/144709.684:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144714.686:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144719.697:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144724.700:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:980:0326/144729.703:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144754.752:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144804.768:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:980:0326/144819.800:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:980:0326/144824.801:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/144829.802:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:980:0326/144834.818:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151206.987:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151227.009:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151247.025:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151737.464:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151742.476:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151747.486:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151752.496:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151757.498:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151807.515:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:26228:0326/151812.516:WARNING:page_discarding_helper.cc(130)] Discarding multiple pages with target (kb): 0
+[11220:16744:0326/151921.191:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
